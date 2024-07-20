@@ -2,11 +2,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 660610769
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : Boontharika Korkitrotjana
 
-Vercel URL :
+Vercel URL : https://lab08-2567-66010769.vercel.app/
 
 ---
 
